@@ -1,0 +1,17 @@
+{
+  "extends": ["taro/react"],
+  "rules": {
+    "react/jsx-uses-react": "off",
+    "react/jsx-tag-spacing": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/no-children-prop": "off",
+    "quotes": [
+      "error",
+      "double"
+    ],
+    "jsx-quotes": [
+      "error",
+      "prefer-double"
+    ]
+  }
+}
