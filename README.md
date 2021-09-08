@@ -56,6 +56,6 @@ export default function Index() {
 
 ### weapp 中的效果
 
-![weapp](https://raw.githubusercontent.com/taroify/taro330-nexttick/main/images/weapp.gif)
+![weapp](https://raw.githubusercontent.com/taroify/taro336-rect/main/images/rect.gif)
 
 期望的结果是在 useReady 获得 rect 不为 null。
